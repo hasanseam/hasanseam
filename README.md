@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanseam&label=Profile%20views&color=0e75b6&style=flat" alt="hasanseam" /> </p>
 
-- 🔭 I’m currently working on **Eshopping**
+- 🔭 I’m currently developing flutter app for my Upwork Client. See my latest project. 
 
 - 🌱 I’m currently learning **AWS and Kubernetes**
 
