@@ -5,9 +5,11 @@
 
 - 🔭 I’m currently developing Flutter app for my Upwork Client. See my latest project **Wall Cartoon**. See my personal prject **E-Shooping**.
 
-- 🌱 I’m currently learning **AWS and Kubernetes**
+- 🌱 I’m currently exploring **AWS, Kubernetes, System Design**
 
-- 💬 Ask me about **Angular, NodeJS, Java and Python**
+- :open_book: I’m currently reading **The art of thinking clearly, System Design Interview - Alex Zu**
+
+- 💬 Ask me about **Angular, NodeJS, Java, Python and Flutter**
 
 - 📫 How to reach me **hasanseam37@gmail.com**
 
