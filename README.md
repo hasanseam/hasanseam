@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasanseam&label=Profile%20views&color=0e75b6&style=flat" alt="hasanseam" /> </p>
 
 - 🔭 I’m currently developing Flutter app for my Upwork Client. See my latest project **Wall Cartoon**( Elegant Frontend with Flutter ) and **ATS** (Backend powered by NodeJs).
--   See my latest personal project **Dump Shorts**(AI bot for posting on a topic on Youtube developed by python).
+-   See my latest personal project **Dump Shorts** ( AI bot for posting on Youtube regularly developed by python).
 
 - 🌱 I’m currently exploring **AWS, Kubernetes, System Design**
 
